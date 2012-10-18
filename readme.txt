@@ -8,7 +8,8 @@ What do I want to cover in my Figure Drawing Guide
 	a. When to show up
 	b. What to bring
 	c. What you can expect to find
-	d. How we split up the time
-	e. Temperature
+	d. Your comfort
+	e. How we split up the time
+	f. Temperature
 3. Ideas for Poses
 4. Other stuff
