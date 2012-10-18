@@ -11,5 +11,13 @@ What do I want to cover in my Figure Drawing Guide
 	d. Your comfort
 	e. How we split up the time
 	f. Temperature
+	g. Scheduling 
+	h. Emergencies 
+	i. Payment
+	j. Interacting with the artists
 3. Ideas for Poses
+	a. General thoughts
+	b. For 1 minute
+	c. For 5-10 minute
+	d. For 25 minute
 4. Other stuff
