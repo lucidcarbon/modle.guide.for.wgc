@@ -21,3 +21,4 @@ What do I want to cover in my Figure Drawing Guide
 	c. For 5-10 minute
 	d. For 25 minute
 4. Other stuff
+does it see the changes?
